@@ -1,0 +1,10 @@
+F:\BITM\MVC\OnlineExamSystem\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+F:\BITM\MVC\OnlineExamSystem\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+F:\BITM\MVC\OnlineExamSystem\DatabaseContext\bin\Debug\DatabaseContext.dll
+F:\BITM\MVC\OnlineExamSystem\DatabaseContext\bin\Debug\DatabaseContext.pdb
+F:\BITM\MVC\OnlineExamSystem\DatabaseContext\bin\Debug\EntityFramework.dll
+F:\BITM\MVC\OnlineExamSystem\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+F:\BITM\MVC\OnlineExamSystem\DatabaseContext\bin\Debug\EntityFramework.xml
+F:\BITM\MVC\OnlineExamSystem\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+F:\BITM\MVC\OnlineExamSystem\DatabaseContext\obj\Debug\DatabaseContext.dll
+F:\BITM\MVC\OnlineExamSystem\DatabaseContext\obj\Debug\DatabaseContext.pdb
