@@ -129,6 +129,7 @@
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
     <Content Include="Views\Course\Entry.cshtml" />
+    <Content Include="Views\Course\CourseInfo.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -141,19 +142,23 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DatabaseContext\DatabaseContext.csproj">
-      <Project>{ea1fcaf9-d5f8-42dd-a5d6-9fc9fa2d90cf}</Project>
-      <Name>DatabaseContext</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\OrganizationExamSystem.Models\OnlineExamSystem.Models.csproj">
-      <Project>{C0418D2E-3CD2-4074-9DA3-1F357A7FFD02}</Project>
-      <Name>OnlineExamSystem.Models</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedResource Include="Migrations\201809121454491_initial.resx">
       <DependentUpon>201809121454491_initial.cs</DependentUpon>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bll\Bll.csproj">
+      <Project>{8abbf698-26ed-4214-baa7-3cc6df503bf5}</Project>
+      <Name>Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DatabaseContext\DatabaseContext.csproj">
+      <Project>{EA1FCAF9-D5F8-42DD-A5D6-9FC9FA2D90CF}</Project>
+      <Name>DatabaseContext</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Models\Models.csproj">
+      <Project>{139e7903-8bd1-48af-9b01-59a4d41e6d31}</Project>
+      <Name>Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

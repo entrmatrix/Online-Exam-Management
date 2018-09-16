@@ -1,4 +1,4 @@
-﻿
+﻿@model Models.Course
 @{
     Layout = null;
 }
@@ -16,13 +16,11 @@
          
     </div>
     
-    <div class="col-md-6">
+    <form method="POST" class="col-md-6">
         <h1>Set up Course</h1>
         <div class="form-group">
             <label>Organization :</label>
-            <select class="form-control">
-                <option value="">Select Course</option>
-            </select>
+           @Html.DropDownListFor(c=>c.OrganizationId,Model.organizationSlItems,htmlAttributes:new{@class="form-control"})
         </div>
         
         <div class="form-group">
@@ -32,22 +30,22 @@
         
         <div class="form-group">
             <label>Code :</label>
-            <input type="text" class="form-control" />
+            <input type="text" name="Code" class="form-control" />
         </div>
         
         <div class="form-group">
             <label>Course Duration (hrs) :</label>
-            <input type="text" class="form-control" />
+            <input type="text" name="Duration" class="form-control" />
         </div>
         
         <div class="form-group">
             <label>Credit :</label>
-            <input type="text" class="form-control" />
+            <input type="text" name="Credit" class="form-control" />
         </div>
         
         <div class="form-group">
             <label>Outline :</label>
-            <textarea class="form-control" rows="5"></textarea>
+            <textarea class="form-control" name="Outline" rows="5"></textarea>
         </div>
         
         <div class="form-group">
@@ -55,7 +53,7 @@
 
         </div>
 
-    </div>
+    </form>
     
     <div class="col-md-3">
 

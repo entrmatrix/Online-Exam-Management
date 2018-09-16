@@ -46,6 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations\201809161111540_Initial.cs" />
+    <Compile Include="Migrations\201809161111540_Initial.Designer.cs">
+      <DependentUpon>201809161111540_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="OrganizationDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -54,10 +59,15 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OrganizationExamSystem.Models\OnlineExamSystem.Models.csproj">
-      <Project>{C0418D2E-3CD2-4074-9DA3-1F357A7FFD02}</Project>
-      <Name>OnlineExamSystem.Models</Name>
+    <ProjectReference Include="..\Models\Models.csproj">
+      <Project>{139E7903-8BD1-48AF-9B01-59A4D41E6D31}</Project>
+      <Name>Models</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201809161111540_Initial.resx">
+      <DependentUpon>201809161111540_Initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

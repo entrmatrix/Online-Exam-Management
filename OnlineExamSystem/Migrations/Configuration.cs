@@ -1,3 +1,5 @@
+using DatabaseContext;
+
 namespace OnlineExamSystem.Migrations
 {
     using System;
@@ -5,14 +7,14 @@ namespace OnlineExamSystem.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<DatabaseContext.OrganizationDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<OrganizationDbContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(DatabaseContext.OrganizationDbContext context)
+        protected override void Seed(OrganizationDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 
