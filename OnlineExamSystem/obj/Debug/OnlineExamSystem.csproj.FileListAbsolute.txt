@@ -50,3 +50,31 @@ C:\Users\Web App Develop .Net\Desktop\OnlineExamSystem\OnlineExamSystem\obj\Debu
 C:\Users\Web App Develop .Net\Desktop\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.GenerateResource.Cache
 C:\Users\Web App Develop .Net\Desktop\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.dll
 C:\Users\Web App Develop .Net\Desktop\OnlineExamSystem\OnlineExamSystem\obj\Debug\OnlineExamSystem.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.dll.config
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\DatabaseContext.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.SqlServer.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Helpers.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Mvc.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Razor.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Deployment.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Razor.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\DatabaseContext.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.SqlServer.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Razor.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Deployment.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Razor.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Helpers.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Mvc.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.csprojResolveAssemblyReference.cache
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.Migrations.initial.resources
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.GenerateResource.Cache
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.Models.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.Models.pdb

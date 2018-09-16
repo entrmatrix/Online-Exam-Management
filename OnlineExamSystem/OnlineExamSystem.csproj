@@ -115,7 +115,6 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CourseController.cs" />
     <Compile Include="Controllers\OrganizationController.cs" />
-    <Compile Include="DatabaseContext\OrganizationDbContext.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -124,8 +123,6 @@
       <DependentUpon>201809121454491_initial.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Models\Course.cs" />
-    <Compile Include="Models\Organization.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -141,11 +138,16 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DatabaseContext\DatabaseContext.csproj">
       <Project>{ea1fcaf9-d5f8-42dd-a5d6-9fc9fa2d90cf}</Project>
       <Name>DatabaseContext</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OrganizationExamSystem.Models\OnlineExamSystem.Models.csproj">
+      <Project>{C0418D2E-3CD2-4074-9DA3-1F357A7FFD02}</Project>
+      <Name>OnlineExamSystem.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

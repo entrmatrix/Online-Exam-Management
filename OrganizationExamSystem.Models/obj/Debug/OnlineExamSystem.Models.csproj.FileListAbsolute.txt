@@ -1,0 +1,4 @@
+D:\Sadek\Farabi's Git\Online-Exam-Management\OrganizationExamSystem.Models\bin\Debug\OnlineExamSystem.Models.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OrganizationExamSystem.Models\bin\Debug\OnlineExamSystem.Models.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\OrganizationExamSystem.Models\obj\Debug\OnlineExamSystem.Models.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OrganizationExamSystem.Models\obj\Debug\OnlineExamSystem.Models.pdb

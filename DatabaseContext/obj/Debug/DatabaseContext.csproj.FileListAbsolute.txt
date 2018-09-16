@@ -8,3 +8,15 @@ F:\BITM\MVC\OnlineExamSystem\DatabaseContext\bin\Debug\EntityFramework.xml
 F:\BITM\MVC\OnlineExamSystem\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
 F:\BITM\MVC\OnlineExamSystem\DatabaseContext\obj\Debug\DatabaseContext.dll
 F:\BITM\MVC\OnlineExamSystem\DatabaseContext\obj\Debug\DatabaseContext.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\OnlineExamSystem.Models.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\OnlineExamSystem.Models.pdb

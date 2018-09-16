@@ -34,10 +34,10 @@ namespace OnlineExamSystem.Models
         [Required]
         [ForeignKey("OrganizationId")]
         public int OrganizationId { get; set; }
-        
-        
 
-       
-    
-}
+
+
+
+
+    }
 }

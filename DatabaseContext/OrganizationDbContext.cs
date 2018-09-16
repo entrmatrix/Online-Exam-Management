@@ -5,12 +5,13 @@ using System.Data.Entity;
 using System.Text;
 using System.Threading.Tasks;
 //using OnlineExamSystem.Models;
+using OnlineExamSystem.Models;
 
 
 namespace DatabaseContext
 {
     public class OrganizationDbContext : DbContext
     {
-        //public DbSet<Organization> Organizations { get; set; }
+        public DbSet<Organization> Organizations { get; set; }
     }
 }
