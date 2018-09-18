@@ -110,3 +110,67 @@ C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\OnlineExamSyste
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\OnlineExamSystem\bin\Bll.pdb
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\OnlineExamSystem\bin\Models.pdb
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\OnlineExamSystem\bin\Repository.pdb
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.dll.config
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.pdb
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\Bll.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\DatabaseContext.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.SqlServer.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\Models.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Helpers.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Mvc.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Razor.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Deployment.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Razor.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\Repository.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\Bll.pdb
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\DatabaseContext.pdb
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\Models.pdb
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.xml
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.SqlServer.xml
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Razor.xml
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.xml
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Deployment.xml
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Razor.xml
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Helpers.xml
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Mvc.xml
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\bin\Repository.pdb
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.csprojResolveAssemblyReference.cache
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.Migrations.initial.resources
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.GenerateResource.Cache
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.dll
+E:\Bitm file\OES\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.dll.config
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\Bll.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\Models.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\Bll.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\bin\Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.Migrations.initial.resources
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.pdb

@@ -14,3 +14,35 @@ C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Repository\obj\
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Repository\obj\Debug\Repository.pdb
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc.dll
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc.xml
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\Repository.dll.config
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\Repository.dll
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\Repository.pdb
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\DatabaseContext.dll
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\EntityFramework.dll
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\Models.dll
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc.dll
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\DatabaseContext.pdb
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\Models.pdb
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\EntityFramework.xml
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Bitm file\OES\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc.xml
+E:\Bitm file\OES\Online-Exam-Management\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Bitm file\OES\Online-Exam-Management\Repository\obj\Debug\Repository.dll
+E:\Bitm file\OES\Online-Exam-Management\Repository\obj\Debug\Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\Repository.dll.config
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\Models.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\obj\Debug\Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\obj\Debug\Repository.pdb

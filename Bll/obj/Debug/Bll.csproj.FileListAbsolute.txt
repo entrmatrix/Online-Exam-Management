@@ -13,3 +13,33 @@ C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Bll\obj\Debug\B
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Bll\obj\Debug\Bll.pdb
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Bll\bin\Debug\System.Web.Mvc.dll
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Bll\bin\Debug\System.Web.Mvc.xml
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\Bll.dll
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\Bll.pdb
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\Models.dll
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\Repository.dll
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\System.Web.Mvc.dll
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\DatabaseContext.dll
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\EntityFramework.dll
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\Models.pdb
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\Repository.pdb
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\System.Web.Mvc.xml
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\DatabaseContext.pdb
+E:\Bitm file\OES\Online-Exam-Management\Bll\bin\Debug\EntityFramework.xml
+E:\Bitm file\OES\Online-Exam-Management\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+E:\Bitm file\OES\Online-Exam-Management\Bll\obj\Debug\Bll.dll
+E:\Bitm file\OES\Online-Exam-Management\Bll\obj\Debug\Bll.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\Bll.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\Bll.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\Models.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\obj\Debug\Bll.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\obj\Debug\Bll.pdb

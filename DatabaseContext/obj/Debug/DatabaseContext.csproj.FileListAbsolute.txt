@@ -36,3 +36,35 @@ C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\DatabaseContext
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\DatabaseContext\bin\Debug\System.Web.Mvc.xml
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Initial.resources
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.dll
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.pdb
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.dll
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\Models.dll
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\Models.pdb
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.xml
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.dll
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.pdb
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Initial.resources
+E:\Bitm file\OES\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\Models.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.Migrations.initial.resources
+C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache

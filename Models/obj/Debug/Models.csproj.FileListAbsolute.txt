@@ -5,3 +5,10 @@ C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Models\obj\Debu
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Models\obj\Debug\Models.pdb
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Models\bin\Debug\System.Web.Mvc.dll
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\Models\bin\Debug\System.Web.Mvc.xml
+E:\Bitm file\OES\Online-Exam-Management\Models\bin\Debug\Models.dll
+E:\Bitm file\OES\Online-Exam-Management\Models\bin\Debug\Models.pdb
+E:\Bitm file\OES\Online-Exam-Management\Models\bin\Debug\System.Web.Mvc.dll
+E:\Bitm file\OES\Online-Exam-Management\Models\bin\Debug\System.Web.Mvc.xml
+E:\Bitm file\OES\Online-Exam-Management\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\Bitm file\OES\Online-Exam-Management\Models\obj\Debug\Models.dll
+E:\Bitm file\OES\Online-Exam-Management\Models\obj\Debug\Models.pdb
