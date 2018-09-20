@@ -12,3 +12,10 @@ E:\Bitm file\OES\Online-Exam-Management\Models\bin\Debug\System.Web.Mvc.xml
 E:\Bitm file\OES\Online-Exam-Management\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 E:\Bitm file\OES\Online-Exam-Management\Models\obj\Debug\Models.dll
 E:\Bitm file\OES\Online-Exam-Management\Models\obj\Debug\Models.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Models\bin\Debug\Models.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Models\bin\Debug\Models.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Models\bin\Debug\System.Web.Mvc.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Models\bin\Debug\System.Web.Mvc.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Sadek\Farabi's Git\Online-Exam-Management\Models\obj\Debug\Models.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Models\obj\Debug\Models.pdb

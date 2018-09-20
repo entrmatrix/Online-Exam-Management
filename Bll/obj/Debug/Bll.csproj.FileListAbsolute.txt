@@ -43,3 +43,18 @@ C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\bin\Debug\Entit
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\obj\Debug\Bll.dll
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Bll\obj\Debug\Bll.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\Bll.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\Bll.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\Models.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\Repository.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\System.Web.Mvc.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\DatabaseContext.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\EntityFramework.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\Models.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\Repository.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\System.Web.Mvc.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\DatabaseContext.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\bin\Debug\EntityFramework.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\obj\Debug\Bll.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Bll\obj\Debug\Bll.pdb

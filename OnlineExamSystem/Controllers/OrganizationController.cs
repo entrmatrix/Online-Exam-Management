@@ -12,12 +12,27 @@ namespace OnlineExamSystem.Controllers
     public class OrganizationController : Controller
     {
         OrganizationBll _organizationBll=new OrganizationBll();
-        public ActionResult Entry(Organization organization)
+
+
+
+        public ActionResult Entry()
         {
-            bool isSaved = _organizationBll.Add(organization);
             
             return View();
         }
+
+        [HttpPost]
+        public ActionResult Entry(Organization organization)
+        {
+            if (ModelState.IsValid)
+            {
+                bool isSaved = _organizationBll.Add(organization);
+            }
+          
+
+            return View();
+        }
+
 
         
 

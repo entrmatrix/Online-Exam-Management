@@ -76,8 +76,6 @@ D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineEx
 D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.GenerateResource.Cache
 D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.dll
 D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.pdb
-D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.Models.dll
-D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.Models.pdb
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.dll.config
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.dll
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.pdb
@@ -174,3 +172,9 @@ C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\ob
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.GenerateResource.Cache
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.dll
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\Bll.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\Models.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\Repository.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\Bll.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\Models.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\Repository.pdb

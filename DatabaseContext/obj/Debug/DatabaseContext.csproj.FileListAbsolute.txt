@@ -18,8 +18,6 @@ D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFra
 D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
 D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.dll
 D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.pdb
-D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\OnlineExamSystem.Models.dll
-D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\OnlineExamSystem.Models.pdb
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.dll.config
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.dll
 C:\Users\Web App Develop .Net\Desktop\OES\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.pdb
@@ -68,3 +66,9 @@ C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\obj
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.pdb
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.Migrations.initial.resources
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\Models.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\Models.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Initial.resources
+D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache

@@ -46,3 +46,19 @@ C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\bin\Debu
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\obj\Debug\Repository.dll
 C:\Users\Web App Develop .Net\Desktop\Online-Exam-Management\Repository\obj\Debug\Repository.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\Repository.dll.config
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\Repository.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\Repository.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\DatabaseContext.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\EntityFramework.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\Models.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\DatabaseContext.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\Models.pdb
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\EntityFramework.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc.xml
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\obj\Debug\Repository.dll
+D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\obj\Debug\Repository.pdb
