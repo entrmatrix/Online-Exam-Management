@@ -1,0 +1,63 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Assign Trainer</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+
+</head>
+<body>
+
+
+    <br /><br /><br />
+
+    <form action="" method="post">
+
+        <div class="col-md-2">Trainer</div>
+        <div class="col-md-8">
+
+            <select class="form-control">
+                <option>Select</option>
+            </select>
+
+        </div>
+        <div class="col-md-2">
+            <input type="submit" name="submit" value="Save" class="btn btn-info" />
+        </div>
+        <br /><br />
+
+    </form>
+
+    <div class="col-md-8">
+        <table style="width:100%;">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Lead Trainer ?</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Shirajul Mamun</td>
+                    <td><input type="radio" /></td>
+                    <td><a href="#">View</a> | <a href="#">Edit</a> | <a href="#">Remove</a></td>
+                </tr>
+                <tr>
+                    <td>Sraban</td>
+                    <td><input type="radio" /></td>
+                    <td><a href="#">View</a> | <a href="#">Edit</a> | <a href="#">Remove</a></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

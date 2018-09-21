@@ -62,3 +62,19 @@ D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc
 D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
 D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\obj\Debug\Repository.dll
 D:\Sadek\Farabi's Git\Online-Exam-Management\Repository\obj\Debug\Repository.pdb
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\Repository.dll.config
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\Repository.dll
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\Repository.pdb
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\DatabaseContext.dll
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\EntityFramework.dll
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\Models.dll
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc.dll
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\DatabaseContext.pdb
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\Models.pdb
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\EntityFramework.xml
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\BITM\MVC\Online-Exam-Management\Repository\bin\Debug\System.Web.Mvc.xml
+F:\BITM\MVC\Online-Exam-Management\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\BITM\MVC\Online-Exam-Management\Repository\obj\Debug\Repository.dll
+F:\BITM\MVC\Online-Exam-Management\Repository\obj\Debug\Repository.pdb

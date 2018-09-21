@@ -178,3 +178,35 @@ D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\Repository.dll
 D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\Bll.pdb
 D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\Models.pdb
 D:\Sadek\Farabi's Git\Online-Exam-Management\OnlineExamSystem\bin\Repository.pdb
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.dll.config
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\OnlineExamSystem.pdb
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\Bll.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\DatabaseContext.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.SqlServer.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\Models.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Helpers.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Mvc.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Razor.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Deployment.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Razor.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\Repository.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\Bll.pdb
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\DatabaseContext.pdb
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\Models.pdb
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.xml
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\EntityFramework.SqlServer.xml
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Razor.xml
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.xml
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Deployment.xml
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Webpages.Razor.xml
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Helpers.xml
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\System.Web.Mvc.xml
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\bin\Repository.pdb
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.csprojResolveAssemblyReference.cache
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.Migrations.initial.resources
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.csproj.GenerateResource.Cache
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.dll
+F:\BITM\MVC\Online-Exam-Management\OnlineExamSystem\obj\Debug\OnlineExamSystem.pdb

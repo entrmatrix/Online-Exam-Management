@@ -117,7 +117,9 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\BatchController.cs" />
     <Compile Include="Controllers\CourseController.cs" />
+    <Compile Include="Controllers\ExamController.cs" />
     <Compile Include="Controllers\OrganizationController.cs" />
+    <Compile Include="Controllers\TrainerController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -134,6 +136,8 @@
     <Content Include="Views\Course\Entry.cshtml" />
     <Content Include="Views\Course\CourseInfo.cshtml" />
     <Content Include="Views\Batch\Entry.cshtml" />
+    <Content Include="Views\Exam\CreateExam.cshtml" />
+    <Content Include="Views\Trainer\AssignTrainer.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

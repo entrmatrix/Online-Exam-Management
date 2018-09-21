@@ -72,3 +72,17 @@ D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\Models.pd
 D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\bin\Debug\System.Web.Mvc.xml
 D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Initial.resources
 D:\Sadek\Farabi's Git\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.dll
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\DatabaseContext.pdb
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.dll
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\Models.dll
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\Models.pdb
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.xml
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.dll
+F:\BITM\MVC\Online-Exam-Management\DatabaseContext\obj\Debug\DatabaseContext.pdb
