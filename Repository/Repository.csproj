@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8C29D1AC-100E-451A-BE2A-C60DFEB169E3}</ProjectGuid>
+    <ProjectGuid>{47F2CD65-91EA-40E9-9462-A9390B9E2977}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Repository</RootNamespace>
@@ -30,11 +30,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="EntityFramework">
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="EntityFramework.SqlServer">
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
@@ -46,17 +48,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BatchRepository.cs" />
     <Compile Include="CourseRepository.cs" />
     <Compile Include="OrganizationRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TrainerRepository.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DatabaseContext\DatabaseContext.csproj">
-      <Project>{ea1fcaf9-d5f8-42dd-a5d6-9fc9fa2d90cf}</Project>
-      <Name>DatabaseContext</Name>
+    <ProjectReference Include="..\DatabaseContexts\DatabaseContexts.csproj">
+      <Project>{f94864c3-805a-4d0f-807b-5919c7c5cbd9}</Project>
+      <Name>DatabaseContexts</Name>
     </ProjectReference>
     <ProjectReference Include="..\Models\Models.csproj">
-      <Project>{139e7903-8bd1-48af-9b01-59a4d41e6d31}</Project>
+      <Project>{3d143369-51a4-47a9-bf69-9afbde56d6c3}</Project>
       <Name>Models</Name>
     </ProjectReference>
   </ItemGroup>

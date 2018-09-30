@@ -1,39 +1,31 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 using System.Web.Mvc;
 
 namespace Models
 {
     public class Course
     {
-        [Key]
         public int Id { get; set; }
-        [Required]
-        [StringLength(50, MinimumLength = 3, ErrorMessage = "Please provide a name using 3-50 characters!")]
-        [DataType(DataType.Text)]
-        public string Name { get; set; }
-        [Required]
-        [StringLength(15, MinimumLength = 3, ErrorMessage = "Code length must be atleast 8 characters!")]
-        [DataType(DataType.Text)]
-        public string Code { get; set; }
-        [Required(ErrorMessage = "Please provide the duration of your course!")]
-        [DataType(DataType.Duration)]
-        public double Duration { get; set; }
-        [Required(ErrorMessage = "Please provide the credit of your course!")]
-        public int Credit { get; set; }
-        [Required]
-        [StringLength(250, MinimumLength = 20, ErrorMessage = "Please provide outline of your course with minimum 20 characters!")]
-        [DataType(DataType.MultilineText)]
-        public string Outline { get; set; }
-        [Required(ErrorMessage = "Please provide the fees of your course!")]
-        [DataType(DataType.Currency)]
-        public double Fees { get; set; }
+        public Organization Organization { get; set; }
         [Required]
         public int OrganizationId { get; set; }
-        [ForeignKey("OrganizationId")]
-        public Organization Organization { get; set; }
-        [NotMapped]
-        public List<SelectListItem> organizationSlItems { get; set; }
+        [Display(Name = "Course Name")]
+        public string Name { get; set; }
+        public string Code { get; set; }
+        public int Duration { get; set; }
+        public int Credit { get; set; }
+        public string Outline { get; set; }
+        public string Tag { get; set; }
+        public bool IsDeleted { get; set; }
+
+        public List<Batch> Batches { get; set; }
+        public List<Trainer> Trainers { get; set; }
+        public List<Participant> Participants { get; set; }
     }
 }
